@@ -6,7 +6,7 @@ This app is a simple game where users are provided with some random addition que
     <img src="resources/google-play-badge150.jpg" />
 </a>
 
-[<img src="resources/google-play-badge150.jpg">](<a href="https://play.google.com/store/apps/details?id=com.mancng.additiongame&hl=en" target="_blank"></a>)
+<img src="resources/google-play-badge150.jpg"><a href="https://play.google.com/store/apps/details?id=com.mancng.additiongame&hl=en" target="_blank"></a>
 
 
 <!--[<img src="resources/google-play-badge150.jpg">](https://play.google.com/store/apps/details?id=com.mancng.additiongame&hl=en)-->
